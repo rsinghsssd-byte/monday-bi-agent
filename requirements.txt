@@ -3,4 +3,9 @@ langchain-community
 streamlit
 python-dotenv
 pandas
+langchain
+
+langchain-core
+
+
 requests
